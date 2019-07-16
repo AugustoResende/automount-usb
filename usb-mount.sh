@@ -38,7 +38,7 @@ do_mount()
         exit 1
     fi
 
-    MOUNT_POINT="/media/usb"
+    MOUNT_POINT="/media/usb0"
 
     ${log} "Mount point: ${MOUNT_POINT}"
 
